@@ -23,7 +23,7 @@ This tool is designed strictly for educational purposes. Only use it on systems 
 1. Clone the repository:
 ```bash
 git clone https://github.com/blueiewu/Tajine-scan.git
-cd tajine-scan
+cd Tajine-scan
 ```
 
 2. No additional dependencies required - uses Python standard library only!
