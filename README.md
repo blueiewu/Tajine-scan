@@ -22,7 +22,7 @@ This tool is designed strictly for educational purposes. Only use it on systems 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/tajine-scan.git
+git clone https://github.com/blueiewu/Tajine-scan.git
 cd tajine-scan
 ```
 
